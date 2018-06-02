@@ -16,5 +16,5 @@ $( document ).ready( function() {
   };
   $( '.arrows i' ).click( slideShow );
 
-  // setInterval( slideShow, 2000 );
+  setInterval( slideShow, 2000 );
 })
